@@ -35,3 +35,11 @@ body{
     margin-left: 45px;
    
 }
+.play_btn{
+    width: 130px;
+    font-size: 25px;
+}
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+}
